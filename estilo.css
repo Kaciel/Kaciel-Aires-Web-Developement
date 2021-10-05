@@ -27,7 +27,7 @@ body {
 	FAZ COM QUE O BACKGROUND SE TORNE FIXO, MANTENDO
 	A SUA POSIÇÃO MESMO QUANDO A TELA É ROLADA.
 */
-	font-family: Helveltica, Arial, sans-serif;
+	font-family: Square, Microsoft;
 }
 
 
@@ -38,7 +38,7 @@ body {
 */
 
 nav.navbar-transparente {
-	background: rgba(0,0,0,0.6);
+	background: rgba(0, 0, 0, 0.2);
 	padding: 15px 0;
 }
 
@@ -50,13 +50,13 @@ nav.navbar-transparente {
 
 
 .navbar-light .navbar-nav .nav-link {
-	color: white;
+	color: #98CA48;
 
 }
 
 
 .navbar-light .navbar-nav .nav-link:hover {
-	color: #9bf0e1;
+	color: #EC268F;
 }
 
 
