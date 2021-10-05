@@ -20,14 +20,14 @@ html, body, #home {
 body {
 	background: url(../imagens/capa.png),
 	url(../imagens/ruido.png),
-	linear-gradient(50deg, #ff4169, #7c26f8);
+	linear-gradient(50deg, #0e0d0d, #19191a);
 	background-attachment: fixed;
 	/*
 	A PROPRIEDADE "backgroud-attachment: fixed" 
 	FAZ COM QUE O BACKGROUND SE TORNE FIXO, MANTENDO
 	A SUA POSIÇÃO MESMO QUANDO A TELA É ROLADA.
 */
-	font-family: SquareBT721, Microsoft;
+	font-family: SquareBT721;
 }
 
 
